@@ -11,6 +11,9 @@
 	.st5{fill:#222222;}
 	.st6{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
 	.st7{fill:#60BE75;}
+	.st8{fill:none;}
+	.st9{font-family:'SofiaPro-Bold';}
+	.st10{font-size:12px;}
 </style>
 <g id="Backdrop">
 	<rect y="179.3" class="st0" width="595.3" height="662.6"/>
@@ -336,5 +339,7 @@
 			c0,17.5,14.3,31.8,31.8,31.8s31.8-14.3,31.8-31.8c0-10.2-4.9-19.8-13.2-25.8l6.6-10.4c11.9,8.3,18.9,21.8,18.9,36.2
 			C166.2,132,146.4,151.8,122.1,151.8z"/>
 	</g>
+	<rect x="196.2" y="156.1" class="st8" width="325.9" height="68.3"/>
+	<text transform="matrix(1 0 0 1 196.1926 164.7288)" class="st9 st10">sofia pro font</text>
 </g>
 </svg>
